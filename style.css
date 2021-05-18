@@ -1,0 +1,14 @@
+body, html
+{
+    display: block;
+    width: 100%;
+}
+
+.andi{
+    padding: 50px;
+}
+
+.bio
+{
+    text-align: center;
+}
